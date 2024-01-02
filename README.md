@@ -156,7 +156,7 @@ You will need to be authenticated to be able to see this page.
 
 ### H2 Database web interface
 
-Go to the web browser and visit `http://localhost:8070/h2-console`
+   Go to the web browser and visit `http://localhost:8070/h2-console`
 
 In field **JDBC URL** put 
 ```
